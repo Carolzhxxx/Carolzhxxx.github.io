@@ -11,7 +11,7 @@ I am passionate about the intersection of tech and human experience—leveraging
 ## 🚀 Featured Projects
 
 ### 📊 Project 1: AI Innovation Efficiency Dashboard
-[![Dashboard](https://img.shields.io/badge/📊_View_Interactive-Dashboard-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carolzhxxx.github.io/ai-innovation-efficiency.html)
+[![Dashboard](https://img.shields.io/badge/📊_View_Interactive-Dashboard-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](hhttps://carolzhxxx.github.io/corporate_ai_investment_roi.html)
 [![Built with Quarto](https://img.shields.io/badge/Built%20with-Quarto-75AADB?style=flat&logo=quarto&logoColor=white)](https://quarto.org/)
 
 An interactive, data-driven dashboard exploring how global corporate R&D investment translates into tangible Artificial Intelligence (AI) innovation outcomes (patent filings). 
